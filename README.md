@@ -24,9 +24,3 @@ Include figures across remote work/study factors:
 
 
 
-## Licence
-
-
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
