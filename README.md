@@ -15,3 +15,20 @@ Include ITS modelling across remote work/study factors:
 
 * Figures (as Additional files 9-16) corresponding to each ITS - model present the weekly average relative volumes of food groups stratified by education adjusted remote work and study groups.
 * Figure (as Additional file 17) corresponding ITS - model to the weekly average energy-for-euro variable stratified by education adjusted changes in remote work and study during the first year of pandemic.
+
+## Authors
+
+
+
+[@suviahtinen](https://www.github.com/suviahtinen)
+
+
+
+## Licence
+
+
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## DOI badge
