@@ -1,4 +1,4 @@
-# Additional files to manuscript: How COVID-19 altered food purchase behavior in Finland? A longitudinal loyalty-card study (2019–2023):
+# How COVID-19 altered food purchase behavior in Finland? A longitudinal loyalty-card study (2019–2023):
 
 
 # Additional files of remote work -folder 
