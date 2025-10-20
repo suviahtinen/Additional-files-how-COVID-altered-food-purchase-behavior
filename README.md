@@ -30,5 +30,3 @@ Include figures across remote work/study factors:
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-## DOI badge
