@@ -1,4 +1,4 @@
-# How COVID-19 altered food purchase behavior in Finland? A longitudinal loyalty-card study (2019–2023):
+# Did COVID-19 affect food purchase behavior in Finland? A four-year cohort study using loyalty-card data (2019–2023):
 
 # Additional files of strata -folder
 
